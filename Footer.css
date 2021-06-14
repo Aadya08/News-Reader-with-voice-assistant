@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap');
+
+
+.footer {
+    padding: 5% 7%;
+    margin-top: 100px;
+    text-align: center;
+    background: #001732;
+  }
+  .foot{
+    font-size: 40px;
+    font-family: 'Prompt', sans-serif;
+
+  }
+  .subfoot{
+    color:white;  
+    font-size: 14px;
+  }
+  

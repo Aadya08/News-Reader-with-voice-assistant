@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@600&display=swap');
+
+
+.header {
+    padding: 5% 5%;
+    text-align: center;
+    background: #f9f7f7;
+  }
+  .head{
+    font-size: 40px;
+    font-family: 'Prompt', sans-serif;
+
+  }
+  .subHead{
+    font-size: 18px;
+  }
+  
